@@ -10,7 +10,8 @@
 开源的主要目的还是为后人省一点token（bushi）
 Markdown文件格式用Obsidian打开的视觉效果更佳。
 就这样吧www，祝你取得好成绩！
-
+注：整个README除了这一段都是DS写的（
+---
 ## 内容目录
 
 ### 01-past-exams（历年真题）
